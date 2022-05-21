@@ -2,8 +2,7 @@
 <br />
 Frontend: https://silly-boyd-1a3d02.netlify.app/
 <br />
-Backend:
-<p> https://damp-eyrie-62274.herokuapp.com/tasks </p>
+Backend: https://damp-eyrie-62274.herokuapp.com/tasks 
 <p> https://damp-eyrie-62274.herokuapp.com/users </p>
  <br />
  
