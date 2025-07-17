@@ -6,10 +6,13 @@
 
  <br />
  
-<p> Майндкарта:   </p>
-<p> Тестовая стратегия:  </p>
-<p> Тестовый репорт:  </p>
-<p> Traceability-матрица: https://docs.google.com/spreadsheets/d/1xJEde4xE9F2v-yFvoOm23xsOKJjUoOxN/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
+<p> МАЙНДКАРТА:   </p>
+<br />
+<p> ТЕСТОВАЯ СТРАТЕГИЯ:  </p>
+<br />
+<p> ТЕСТОВЫЙ РЕПОРТ:  </p>
+<br />
+<p> мАТРИЦА ПОКРЫТИЯ ТРЕБОВАНИЙ: https://docs.google.com/spreadsheets/d/1xJEde4xE9F2v-yFvoOm23xsOKJjUoOxN/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
 <br />
 
 ТЕСТ КЕЙСЫ:
